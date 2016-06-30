@@ -1,2 +1,3 @@
-# Machine_Learning_Coursera
-Machine Learning Specialization 
+
+## Machine Learning Specialization 
+## By University of Washington at [Coursera](coursera.org)
